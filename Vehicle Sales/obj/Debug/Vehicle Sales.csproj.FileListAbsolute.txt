@@ -26,3 +26,4 @@ C:\Users\Sharaths\Documents\Visual Studio 2017\Vehicle Sales\Vehicle Sales\bin\U
 C:\Users\Sharaths\Documents\Visual Studio 2017\Vehicle Sales\Vehicle Sales\obj\Debug\Vehicle Sales.csproj.CoreCompileInputs.cache
 C:\Users\Sharaths\Documents\Visual Studio 2017\Vehicle Sales\Vehicle Sales\obj\Debug\Vehicle Sales.dll
 C:\Users\Sharaths\Documents\Visual Studio 2017\Vehicle Sales\Vehicle Sales\obj\Debug\Vehicle Sales.pdb
+C:\Users\Sharaths\Documents\Visual Studio 2017\Vehicle Sales\Vehicle Sales\obj\Debug\Vehicle Sales.csprojResolveAssemblyReference.cache
